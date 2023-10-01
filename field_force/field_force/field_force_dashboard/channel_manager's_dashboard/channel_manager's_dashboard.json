@@ -1,0 +1,65 @@
+{
+ "cards": [
+  {
+   "card": "Total Sales Person"
+  },
+  {
+   "card": "Active Sales Person"
+  },
+  {
+   "card": "Total Present"
+  },
+  {
+   "card": "Today's Assigned Route"
+  },
+  {
+   "card": "Today's Visited Route"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Top 10 Customers (Requisition)",
+   "width": "Half"
+  },
+  {
+   "chart": "Top 10 Customers (Sales)",
+   "width": "Half"
+  },
+  {
+   "chart": "Top Categories (Requisition)",
+   "width": "Half"
+  },
+  {
+   "chart": "Top Categories (Sales)",
+   "width": "Half"
+  },
+  {
+   "chart": "Brand Performance (Requisition)",
+   "width": "Half"
+  },
+  {
+   "chart": "Brand Performance (Sales)",
+   "width": "Half"
+  },
+  {
+   "chart": "Top Sales Persons (Requisition)",
+   "width": "Half"
+  },
+  {
+   "chart": "Top Sales Persons (Sales)",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-08-31 16:27:10.435210",
+ "dashboard_name": "Channel Manager's Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-09-03 14:49:58.920076",
+ "modified_by": "munim@invento.com.bd",
+ "module": "Field Force",
+ "name": "Channel Manager's Dashboard",
+ "owner": "munim@invento.com.bd"
+}
